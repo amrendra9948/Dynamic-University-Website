@@ -1,0 +1,34 @@
+<style>
+    {margin: 0;padding: 0;box-sizing: border-box;}
+    .carousel-inner img{
+        width: 200%;
+        height: 200%;
+    }
+    .nav-link{
+        text-align: right;
+        cursor: pointer;
+        margin: 200px left;
+        padding: 34px 23px;
+        color: red;
+        text-decoration: none;
+        font-size: 30px;
+        font-family: 'Times New Roman', Times, serif;
+
+    }
+
+    .navbar-link a:hover,
+    .navbar li a.active {
+        color: yellowgreen;
+        text-decoration: underline;
+    }
+    .about-img{
+        width: 100%;
+        height: 20px! !important;
+    }
+        /*position: absolute;
+        right: 34px;*/
+        /*top: 20px;
+        display: inline-block;
+        border: 2px solid yellow;*/
+    
+</style>
